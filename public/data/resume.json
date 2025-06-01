@@ -1,0 +1,40 @@
+{
+    "work_experience": [
+      {
+        "company": "Telways, Örebro",
+        "period": "August 2024 - Ongoing",
+        "description": "I work as a salesperson at Telways. My main tasks are to help my customers with their problems and to make sure that they are satisfied with my support and the products they have bought. I also work with calling new customers to try to sell our products and services but mainly to get them to book a meeting with me so I can go out and meet them in person. My day is filled with different tasks and I have to be able to switch between them quickly."
+      },
+      {
+        "company": "Arken Zoo, Eskilstuna",
+        "period": "March 2022 - July 2024",
+        "description": "Worked as a truck driver at the beginning but I ended up working at outbound where me and one more from my shift were responsible for the whole warehouse goods that were going out to the stores in Sweden plus to the other warehouses in Norway, Denmark, and Finland."
+      },
+      {
+        "company": "Västra Engelbrektskolan, Örebro",
+        "period": "August 2019 - February 2022",
+        "description": "Worked as a learning support assistant for a student with special needs during the regular school hours. I was responsible for helping the student with his daily tasks and to make sure he was able to follow the lessons. During the afternoon, I worked as an after-school teacher where I was responsible for the kids staying after school until their parents came to pick them up. We planned different activities every week to keep the kids entertained and maintain structure, including baking, playing games, and going to the park."
+      },
+      {
+        "company": "Solögat, Arboga",
+        "period": "June 2018 - August 2019",
+        "description": "I worked as a caretaker with people with special needs."
+      }
+    ],
+    "education": [
+      {
+        "school": "Chas Academy, Stockholm",
+        "period": "September 2024 - Ongoing",
+        "program": ".NET Fullstack-developer"
+      },
+      {
+        "school": "Vasagymnasiet, Arboga",
+        "period": "August 2019 - June 2021",
+        "program": "Electricity and Energy Program with specialization in Computer and Communication Technology"
+      }
+    ],
+    "language_skills": {
+      "Swedish": "Fluent",
+      "English": "Can speak and write but wouldn't say that I'm fluent"
+    }
+  }
