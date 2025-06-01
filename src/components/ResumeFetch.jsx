@@ -4,7 +4,7 @@ export default function ResumeFetch() {
   const [resumeData, setResumeData] = useState(null);
 
   useEffect(() => {
-    fetch(`${import.meta.env.Base_URL}data/resume.json`)
+    fetch(`${import.meta.env.BASE_URL}data/resume.json`)
       .then((response) => response.json())
       .then((data) => setResumeData(data))
       .catch((error) => console.error("error fetching resume data:", error))
