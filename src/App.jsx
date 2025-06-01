@@ -1,6 +1,6 @@
 import './App.css'
 import  './Contact.css'
-import {BrowserRouter, Routes, Route } from 'react-router-dom'
+import {HashRouter as Router} from 'react-router-dom'
 import Home from './pages/Home'
 import About from './pages/About'
 import Portfolio from './pages/Portfolio'
@@ -10,7 +10,7 @@ import Navbar from './components/Navbar'
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <Router>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -19,6 +19,6 @@ export default function App() {
         <Route path="/resume" element={<Resume />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-    </BrowserRouter>
+    </Router>
   )
 }
